@@ -1,0 +1,23 @@
+table {
+    margin: 50px;
+    overflow: auto;
+    width: 90%;
+    text-align: center;
+    background-color: rgb(196, 193, 193);
+}
+
+th {
+    text-decoration: underline;
+    text-decoration: none;
+}
+
+th, td {
+    padding: 5px;
+}
+
+ thead {
+     background-color: #888;
+     color: #fff;
+ }
+
+
